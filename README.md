@@ -13,6 +13,6 @@ Participants will be capable of using a dataset to train a simple linear regress
 - Fork or download this repo in order to follow along and complete learning tasks
 
 ## I found an error! How can I fix it? / How can I contribute?
-Please use the contributor template and make a pull request to add features, fix errors, or otherwise contribute to the project.
+Please use the [contributor templates](https://github.com/Shaddyjr/dataScience30/tree/master/.github/ISSUE_TEMPLATE) and make a pull request to add features, fix errors, or otherwise contribute to the project.
 
 ## License - [MIT](https://github.com/Shaddyjr/dataScience30/blob/master/LICENSE)
