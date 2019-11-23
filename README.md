@@ -8,7 +8,7 @@ The "dataScience30" course is a free 30 module course focused on introducing par
 Participants will be capable of using a dataset to train a simple linear regression model and make predictions on a continuous target variable.
 
 ## Getting started
-- The video series can be found here - https://www.youtube.com/playlist?list=PLeRjooVBWdKaPpVT1hunF5yfwQ22Tyy3c
+- [The video series can be found here](https://www.youtube.com/playlist?list=PLeRjooVBWdKaPpVT1hunF5yfwQ22Tyy3c)
 - Participants are expected to have some experience programming in Python. If you're looking to learn how to program in Python, please check out these free resources - ["5 Free Courses to Learn Python in 2019"](https://medium.com/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf)
 - Fork or download this repo in order to follow along and complete learning tasks
 
