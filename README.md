@@ -1,4 +1,7 @@
 # dataScience30
+![License](https://img.shields.io/github/license/shaddyjr/dataScience30?style=plastic)
+![Issues Raw](https://img.shields.io/github/issues-raw/shaddyjr/dataScience30?style=plastic)
+![Last Commit](https://img.shields.io/github/last-commit/shaddyjr/dataScience30/master?style=plastic)
 #### By [Glitched Failure](https://www.youtube.com/channel/UCErSNiDZV4rJCNB8NrDGREA)
 
 ## What is dataScience30?
