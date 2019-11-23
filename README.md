@@ -21,7 +21,7 @@ Please use the [contributor templates](https://github.com/Shaddyjr/dataScience30
 ## License - [MIT](https://github.com/Shaddyjr/dataScience30/blob/master/LICENSE)
 
 ## Course Outline & Outcomes
-### 1) Intro
+### 1) [Intro](https://www.youtube.com/watch?v=p5vm1ktJA3c&list=PLeRjooVBWdKaPpVT1hunF5yfwQ22Tyy3c)
 - Participants will have know what to expect from the course.
 ### 2) Installation Guide & Getting Acquainted with Jupyter Notebooks
 - Participants will have a working environment for executing python code in a Jupyter Notebook
