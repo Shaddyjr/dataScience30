@@ -20,7 +20,8 @@ Please use the [contributor templates](https://github.com/Shaddyjr/dataScience30
 
 [You can also submit feedback here](https://docs.google.com/forms/d/e/1FAIpQLScvsDT2Q2VH26FvvfQhjNmP4RwXqh9GWiKSIcTFAHdfCKZdlg/viewform?usp=sf_link)
 
-## License - [MIT](https://github.com/Shaddyjr/dataScience30/blob/master/LICENSE)
+## License
+This course material is under the [MIT License](https://github.com/Shaddyjr/dataScience30/blob/master/LICENSE)
 
 ## Course Outline & Outcomes (work in progress)
 ### 1) [Intro](https://www.youtube.com/watch?v=p5vm1ktJA3c&list=PLeRjooVBWdKaPpVT1hunF5yfwQ22Tyy3c)
