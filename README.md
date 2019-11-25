@@ -18,11 +18,13 @@ Participants will be capable of using a dataset to train a simple linear regress
 ## I found an error! How can I fix it? / How can I contribute?
 Please use the [contributor templates](https://github.com/Shaddyjr/dataScience30/tree/master/.github/ISSUE_TEMPLATE) and make a pull request to add features, fix errors, or otherwise contribute to the project.
 
+[You can also submit feedback here](https://docs.google.com/forms/d/e/1FAIpQLScvsDT2Q2VH26FvvfQhjNmP4RwXqh9GWiKSIcTFAHdfCKZdlg/viewform?usp=sf_link)
+
 ## License - [MIT](https://github.com/Shaddyjr/dataScience30/blob/master/LICENSE)
 
-## Course Outline & Outcomes
+## Course Outline & Outcomes (work in progress)
 ### 1) [Intro](https://www.youtube.com/watch?v=p5vm1ktJA3c&list=PLeRjooVBWdKaPpVT1hunF5yfwQ22Tyy3c)
-- Participants will have know what to expect from the course.
+- Participants will know what to expect from the course.
 ### 2) [Installation Guide & Getting Acquainted with Jupyter Notebooks](https://youtu.be/JUKD3Nw166U)
 - Participants will have a working environment for executing python code in a Jupyter Notebook
 - Participants will be familiar with navigating and interacting with a Jupyter Notebook
