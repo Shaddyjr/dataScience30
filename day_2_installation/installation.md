@@ -24,6 +24,7 @@ Jupyter notebooks will be the main tool we'll be using throughout this course. _
 While in a Jupyter notebook, near the top navigate to "Help > Keyboard Shortcuts". Use these shortcuts to complete the following tasks WITHOUT touching your mouse:
 - Create 2 new cell above the current cell
 - Create 2 new cell below the current cell
+- Delete one of the newly created cells
 - Convert 1 cell to Markdown
     - Write a few lines of content in the Markdown cell
     - _NOTE: You should have at least 2 code cells and 1 Markdown cells after this point_
