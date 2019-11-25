@@ -23,9 +23,13 @@ Please use the [contributor templates](https://github.com/Shaddyjr/dataScience30
 ## Course Outline & Outcomes
 ### 1) [Intro](https://www.youtube.com/watch?v=p5vm1ktJA3c&list=PLeRjooVBWdKaPpVT1hunF5yfwQ22Tyy3c)
 - Participants will have know what to expect from the course.
-### 2) Installation Guide & Getting Acquainted with Jupyter Notebooks
+### 2) [Installation Guide & Getting Acquainted with Jupyter Notebooks](https://youtu.be/JUKD3Nw166U)
 - Participants will have a working environment for executing python code in a Jupyter Notebook
 - Participants will be familiar with navigating and interacting with a Jupyter Notebook
+- Installation Guide Links:
+  - https://www.google.com/chrome/
+  - https://git-scm.com/downloads
+  - https://www.anaconda.com/distribution/
 ### 3) Workflow & Forming a Problem Statement
 - Participants will have familiarity with the start of a data workflow
 ### 4) Data Wrangling
