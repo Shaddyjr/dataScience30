@@ -6,6 +6,7 @@
 - Participants will have a working environment for executing python code in a Jupyter Notebook
 - Participants will be familiar with navigating and interacting with a Jupyter Notebook
 
+---
 ## Code Along
 ### Installation Guide Links:
 - https://www.google.com/chrome/
@@ -17,8 +18,12 @@
 - Practice navigating
 - Practice editing and running "Markdown" and "Code" cells
 
+---
 ## Assignments
 ### Practice using the Jupyter Notebook GUI
+Either use the notebook in this folder called "testing_ground.ipynb" or create your own notebook to complete this assignment.  
+
+
 Jupyter notebooks will be the main tool we'll be using throughout this course. __Spending time learning how to use this tool now will save a lot of later!__ The following tasks are by far the most common, so you'll want to commit these keyboard shortcuts to muscle memory.
 
 While in a Jupyter notebook, near the top navigate to "Help > Keyboard Shortcuts". Use these shortcuts to complete the following tasks WITHOUT touching your mouse:
@@ -33,6 +38,7 @@ While in a Jupyter notebook, near the top navigate to "Help > Keyboard Shortcuts
     - Make sure these two cells are next to each other
 - Merge the 2 code cells from the previous step
 
+---
 ## BONUS
 I've found moving cells on the fly to be invaluable, however, there is no default keyboard shortcut for this functionality.
 - Create keyboard shortcuts to move cells up and down
@@ -44,6 +50,7 @@ There are a number of great widgets for Jupyter Notebooks called [nbextensions](
 
 Markdown can seem intimidating at first, but knowing even a little markdown syntax can drastically improve the readability of your code. Check out this [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) and get familiar with at least 5-6 markdown elements.
 
+---
 ## Vocabulary
 ### Environment - ([source](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html))
 - An environment is a directory that contains a specific collection of packages/libraries that you have installed. For example, you may have one environment with NumPy 1.7 and its dependencies, and another environment with NumPy 1.6 for legacy testing. If you change one environment, your other environments are not affected. You can easily activate or deactivate environments, which is how you switch between them. You can also share your environment with someone by giving them a copy of your `environment.yaml` file.
@@ -62,6 +69,7 @@ Markdown can seem intimidating at first, but knowing even a little markdown synt
 - Markdown is everywhere! Facebook chat, Skype, and Reddit all let you use different flavors of Markdown to format your messages.
 - Unfortunately, there is __no standard or universal guide__ for how Markdown works. Every company, website, IDEs, etc. can use dictate which syntax works and how it works. GitHub, for example, will not allow for much customization (as a security concern), while VSCode allows you to do pretty much anything.
 
+---
 ## References
 - [Google Chrome Installation](https://www.google.com/chrome/)
 - [Git Installation](https://git-scm.com/downloads)
@@ -69,5 +77,7 @@ Markdown can seem intimidating at first, but knowing even a little markdown synt
 - [nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/)
 - [Conda Concepts Documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html)
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+
+---
 ## Have Feedback?
 [Submit feedback here](https://docs.google.com/forms/d/e/1FAIpQLScvsDT2Q2VH26FvvfQhjNmP4RwXqh9GWiKSIcTFAHdfCKZdlg/viewform?usp=sf_link)

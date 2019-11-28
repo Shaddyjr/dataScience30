@@ -25,7 +25,7 @@ This course material is under the [MIT License](https://github.com/Shaddyjr/data
 
 ## Course Outline & Outcomes (work in progress)
 ### 1) [Intro](https://www.youtube.com/watch?v=p5vm1ktJA3c&list=PLeRjooVBWdKaPpVT1hunF5yfwQ22Tyy3c)
-- Participants will know what to expect from the course.
+- Participants will know what to expect from the course and how to prepare for it.
 ### 2) [Installation Guide & Getting Acquainted with Jupyter Notebooks](https://youtu.be/JUKD3Nw166U)
 - Participants will have a working environment for executing python code in a Jupyter Notebook
 - Participants will be familiar with navigating and interacting with a Jupyter Notebook
@@ -33,8 +33,10 @@ This course material is under the [MIT License](https://github.com/Shaddyjr/data
   - https://www.google.com/chrome/
   - https://git-scm.com/downloads
   - https://www.anaconda.com/distribution/
-### 3) Workflow & Forming a Problem Statement
+### 3) Day 3: Workflow, Ethics & Forming a Problem Statement
 - Participants will have familiarity with the start of a data workflow
+- Participants will have familiarity recognizing unethical uses of data
+- Participants will gain experience forming a proper problem statement
 ### 4) Data Wrangling
 - hard files, APIs, Web Scraping
 - storing data
@@ -76,9 +78,9 @@ This course material is under the [MIT License](https://github.com/Shaddyjr/data
 ### 25) BONUS: Kaggle Competition
 ### 26) BONUS: Putting your model into production using Flask and Heroku
 ### 27) BONUS: Job Hunt & Interview Preparation
-### 28) BONUS: Conceptual Look at Classification Models
-### 29) BONUS: Conceptual Look at Time Series Models
-### 30) BONUS: Conceptual Look at Neural Networks
+### 28) BONUS: SQL
+### 29) BONUS: Conceptual Look at Classification Models
+### 30) BONUS: Conceptual Look at Time Series Models
 
 
 

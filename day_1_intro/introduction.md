@@ -3,7 +3,7 @@
 #### By [Glitched Failure](https://www.youtube.com/channel/UCErSNiDZV4rJCNB8NrDGREA)
 ---
 ## Objectives
-- Participants will know what to expect from the course.
+- Participants will know what to expect from the course and how to prepare for it.
 
 ## Assignments
 - Download the course material at - https://github.com/Shaddyjr/dataScience30
