@@ -15,7 +15,7 @@ This is a general way to approach a data science problem. This is by no means ex
 
 1. General Problem Statement
 2. Research relevant data sources
-3. __Specific Problem Statement__
+3. Specific Problem Statement
 4. Gather data
 6. Preliminary EDA
 5. Clean data
@@ -38,7 +38,7 @@ I bring this up because data is dangerous in the wrong hands, and I would be doi
 
 _Disclaimer_: By no means am I an expert on ethics! The topics discussed may provoke strong emotions and I encourage anyone taking this course to reflect on how you might view each situation from different perspectives. __This is NOT about right vs. wrong.__ These exercises are meant to spark the inner dialogue and self criticism any good scientist should have when deciding on WHEN to use the tools at their disposal.
 
-### Ethical Scnariors
+### Ethical Scnarios
 #### Scenario 1 - Predicting Recidivism - ([source](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)):
 In criminal courts, judges are responsible for deciding everything from bail, to probation, to parole. Of course, judges are human and statistical analysis has consistently shown judges biased - particularly regarding race.  
 
@@ -238,11 +238,14 @@ Check out [Hacker Rank](https://www.hackerrank.com/), [Code Wars](https://www.co
 
 ---
 ## Vocabulary
+
 ### Workflow - ([source](https://kissflow.com/workflow/what-is-a-workflow/))
 - A workflow is a sequence of tasks that processes a set of data. Workflows occur across every kind of business and industry. Anytime data is passed between humans and/or systems, a workflow is created. 
 - Workflows are the paths that describe how something goes from being undone to done, or raw to processed.
+
 ### Ethics - ([source](http://www.bbc.co.uk/ethics/introduction/intro_1.shtml))
 - At its simplest, ethics is a system of moral principles. They affect how people make decisions and lead their lives. Ethics is concerned with what is good for individuals and society and is also described as moral philosophy.
+
 ### Problem Statement - ([source](https://en.wikipedia.org/wiki/Problem_statement))
 - A problem statement is a concise description of an issue to be addressed or a condition to be improved upon. It identifies the gap between the current state and desired state of a process or product.
 
@@ -252,7 +255,7 @@ Check out [Hacker Rank](https://www.hackerrank.com/), [Code Wars](https://www.co
 - ["Don’t Do Data Science, Solve Business Problems"](https://towardsdatascience.com/dont-do-data-science-solve-business-problems-6b70c4ee0083)
 - ["It’s Time for Data Ethics Conversations at Your Dinner Table"](https://data.berkeley.edu/news/it%E2%80%99s-time-data-ethics-conversations-your-dinner-table)
 - ["When Big Data Gets It Wrong"](https://www.govtech.com/data/When-Big-Data-Gets-It-Wrong.html)
-- ["Google almost exposed patient data"](https://www.washingtonpost.com/technology/2019/11/15/google-almost-made-chest-x-rays-public-until-it-realized-personal-data-could-be-exposed/)
+- [Google almost exposed patient data](https://www.washingtonpost.com/technology/2019/11/15/google-almost-made-chest-x-rays-public-until-it-realized-personal-data-could-be-exposed/)
 
 ---
 ## Have Feedback?

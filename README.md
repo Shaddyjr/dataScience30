@@ -33,14 +33,14 @@ This course material is under the [MIT License](https://github.com/Shaddyjr/data
   - https://www.google.com/chrome/
   - https://git-scm.com/downloads
   - https://www.anaconda.com/distribution/
-### 3) Day 3: Workflow, Ethics & Forming a Problem Statement
+### 3) Workflow, Ethics & Forming a Problem Statement
 - Participants will have familiarity with the start of a data workflow
 - Participants will have familiarity recognizing unethical uses of data
 - Participants will gain experience forming a proper problem statement
 ### 4) Data Wrangling
-- hard files, APIs, Web Scraping
-- storing data
-- data dictionary
+- Participants will gain experience loading data from files, web scraping, and APIs
+- Participants will gain experience writing data to a file
+- Participants will gain experience creating a data dictionary
 ### 5) Continuous vs. Categorical data & Features vs. Target variables
 ### 6) PROJECT PART 1: GATHER YOUR DATA
 ### 7) Loading Data & Tentative EDA
