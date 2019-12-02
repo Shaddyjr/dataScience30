@@ -33,7 +33,7 @@ This course material is under the [MIT License](https://github.com/Shaddyjr/data
   - https://www.google.com/chrome/
   - https://git-scm.com/downloads
   - https://www.anaconda.com/distribution/
-### 3) Workflow, Ethics & Forming a Problem Statement
+### 3) [Workflow, Ethics & Forming a Problem Statement](https://youtu.be/8Q_YKexFszg)
 - Participants will have familiarity with the start of a data workflow
 - Participants will have familiarity recognizing unethical uses of data
 - Participants will gain experience forming a proper problem statement

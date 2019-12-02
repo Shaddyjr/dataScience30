@@ -1,5 +1,5 @@
 # dataScience30
-## [Day 3: Workflow, Ethics & Forming a Problem Statement]()
+## [Day 3: Workflow, Ethics & Forming a Problem Statement](https://youtu.be/8Q_YKexFszg)
 #### By [Glitched Failure](https://www.youtube.com/channel/UCErSNiDZV4rJCNB8NrDGREA)
 ---
 ## Objectives
