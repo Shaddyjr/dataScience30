@@ -37,7 +37,7 @@ This course material is under the [MIT License](https://github.com/Shaddyjr/data
 - Participants will have familiarity with the start of a data workflow
 - Participants will have familiarity recognizing unethical uses of data
 - Participants will gain experience forming a proper problem statement
-### 4) Data Wrangling
+### 4) [Data Wrangling](https://youtu.be/Xn2pzNoP3i0)
 - Participants will gain experience loading data from files, web scraping, and APIs
 - Participants will gain experience writing data to a file
 - Participants will gain experience creating a data dictionary
